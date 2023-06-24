@@ -32,7 +32,7 @@ public class Principal {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Equipe: Douglas Eloi, Guilherme Aragão, João Torres, Lucas Araújo.");
+        System.out.println("Equipe: Douglas Eloi, Guilherme Aragão, João Torres, Lucas Araújo Verônica Castro.");
         System.out.println();
         Integer opcao = 0;
         /*a variavel cadastrarNovoProduto é do tipo boolean e é utilizada para controlar o loop do menu principal. 
